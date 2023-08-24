@@ -1,0 +1,20 @@
+{
+  "name": "gigit-help",
+  "author": {
+    "name": "Ayush Saraswat",
+    "email": "ayushsara12@gmail.com"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "domainWhitelist": ["api.openai.com", "gigit.fly.dev"],
+  "location": {
+    "support": {
+      "ticket_sidebar": {
+        "url": "assets/iframe.html",
+        "flexible": true
+      }
+    }
+  },
+  "version": "1.0.0",
+  "frameworkVersion": "2.0"
+}

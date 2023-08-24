@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@flydotio/dockerfile": "^0.4.7",
+    "@flydotio/node-demo": "^0.1.9"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
